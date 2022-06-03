@@ -1,5 +1,7 @@
 # Budget Tracker (PWA)
 
+![budget-tracker-screenshot](https://user-images.githubusercontent.com/95376309/171932877-f136d1f8-4184-4201-ab1e-c767124ffe52.png)
+
 ## Description
 
 A simple Budget Tracker with offline functionality and service workers.
